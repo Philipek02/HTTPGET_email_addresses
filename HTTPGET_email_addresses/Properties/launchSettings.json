@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HTTPGET_email_addresses": {
+      "commandName": "Project"
+    }
+  }
+}
